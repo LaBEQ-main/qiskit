@@ -1,2 +1,2 @@
 # qiskit
-Qiskit projects will be uploaded here!
+Qiskit related content should be uploaded here.
